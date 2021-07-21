@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1626828738 source:c:\users\usuario\desktop\programação\programação em c++\matriz em c\main.c
+	<locale.h>
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
